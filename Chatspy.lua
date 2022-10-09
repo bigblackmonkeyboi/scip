@@ -1,6 +1,7 @@
 print("-- Chat Spy Executed --")
 print("Type \"spy\" to enable or disable the chat spy.")
 print("Only tested if this works executed with Synapse (should work with other exploits though)")
+print("Owner: I don't know")
 
 -- Config
 Config = {
