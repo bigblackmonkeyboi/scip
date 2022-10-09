@@ -23,7 +23,8 @@ local Bypasses = {
     ["whore"] = "who{{aieixzvzx:re}}",
     ["discord"] = "disco{{aieixzvzx:rd}}",
     ["kys"] = "k{{aieixzvzx:ys}}",
-    ["kill"] = "ki{{aieixzvzx:ll}}"
+    ["kill"] = "ki{{aieixzvzx:ll}}",
+    ["meth"] = "me{{aieixzvzx:th}}
 }
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
