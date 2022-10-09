@@ -1,5 +1,5 @@
---customizable
---{{aieixzvzx:'insert text here'}}
+print("Dm me for open source")
+
 local Bypasses = {
     ["ass"] = "as{{aieixzvzx:s}}",
     ["asshole"] = "as{{aieixzvzx:shole}}",
