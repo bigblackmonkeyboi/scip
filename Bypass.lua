@@ -281,7 +281,7 @@ queueonteleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/dadd
 	if not LOADED then
 		NotificationHolder:message {
 			Title = "<font color='rgb(130, 220, 120)'>Credits</font>",
-			Description = "FIRSTLY DISCOVERED WAS BY tav#8870. Bypasser was done by Decayed#5038 and AnthonyIsHere on V3rm. Modified by daddysyn and Big Black Monkey Boy",
+			Description = "FIRSTLY DISCOVERED WAS BY tav#8870. Bypasser was done by Decayed#5038 and AnthonyIsHere on V3rm. Modified by daddysyn and Big Black Monkey Boy#8453",
 			Icon = 6023426926
 		}
 
