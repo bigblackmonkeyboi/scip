@@ -328,7 +328,7 @@ queueonteleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/dadd
 			end
 		},
 		Dismiss = {Text = "No", Callback = function()
-			NotificationHolder:message {Title = "<font color='rgb(240,248,255)'>Warning</font>", Description = "fuck you then im gonna invite you anyway bitch", Icon = 10952973359}
+			NotificationHolder:message {Title = "<font color='rgb(240,248,255)'>Warning</font>", Description = "fuck you then im gonna invite you anyway bitch(fuck you syn for adding this shit", Icon = 10952973359}
 
 				wait(0.5)
 				requestt(
