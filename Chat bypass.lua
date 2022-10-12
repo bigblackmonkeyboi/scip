@@ -1,32 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@bigblackmonkeyboi 
-bigblackmonkeyboi
-/
-scip
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-scip/Bypass.lua
-@bigblackmonkeyboi
-bigblackmonkeyboi A
-Latest commit 2c51ad0 yesterday
- History
- 1 contributor
-363 lines (307 sloc)  11.6 KB
-
 if not getgenv() then return end
 
 if not getgenv().method or getgenv().method == nil then
