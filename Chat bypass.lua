@@ -231,13 +231,85 @@ queueonteleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/dadd
 		["muhammad"] = "muha{{aieixzvzx:mmad}}",
 		["christianity"] = "chri{{aieixzvzx:stianity}}",
 		["satanism"] = "sata{{aieixzvzx:nism}}",
+
+		["1"] = "on{{aieixzvzx:e}}",
+		["2"] = "t{{aieixzvzx:wo}}",
+		["3"] = "th{{aieixzvzx:ree}}",
+		["4"] = "fo{{aieixzvzx:ur}}",
+		["5"] = "fi{{aieixzvzx:ve}}",
+		["6"] = "s{{aieixzvzx:ix}}",
+		["7"] = "se{{aieixzvzx:ven}}",
+		["8"] = "ei{{aieixzvzx:ght}}",
+		["9"] = "ni{{aieixzvzx:ne}}",
+		["10"] = "te{{aieixzvzx:n}}",
+		["twitter"] = "twi{{aieixzvzx:tter}}",
+		["youtube"] = "you{{aieixzvzx:tube}}",
+		["rumble"] = "rum{{aieixzvzx:ble}}",
+		["tiktok"] = "tik{{aieixzvzx:tok}}",
+		["facebook"] = "face{{aieixzvzx:book}}",
+		["whatsapp"] = "wha{{aieixzvzx:tsapp}}",
+		["discord"] = "disco{{aieixzvzx:rd}}",
+		["instagram"] = "inst{{aieixzvzx:agram}}",
+		["snapchat"] = "snap{{aieixzvzx:chat}}",
+
+		-- ALL NEW
+
 		["wtf"] = "wt{{aieixzvzx:f}}",
 		["gtfo"] = "gt{{aieixzvzx:fo}}",
 		["kys"] = "k{{aieixzvzx:ys}}",
 		["omfg"] = "omf{{aieixzvzx:g}}",
 		["stfu"] = "st{{aieixzvzx:fu}}",
 		["ily"] = "il{{aieixzvzx:y}}",
-		["istg"] = "is{{aieixzvzx:tg}}",	
+		["istg"] = "is{{aieixzvzx:tg}}",
+
+		
+		["and"] = "a{{aieixzvzx:nd}}",
+		["or"] = "o{{aieixzvzx:r}}",
+		["if"] = "i{{aieixzvzx:f}}",
+		["else"] = "el{{aieixzvzx:se}}",
+		["then"] = "th{{aieixzvzx:en}}",
+		["why"] = "wh{{aieixzvzx:y}}",
+		["what"] = "wha{{aieixzvzx:t}}",
+		["who"] = "wh{{aieixzvzx:o}}",
+		["where"] = "wh{{aieixzvzx:ere}}",
+		["see"] = "se{{aieixzvzx:e}}",
+		["do"] = "d{{aieixzvzx:o}}",
+		["to"] = "t{{aieixzvzx:o}}",
+		["of"] = "o{{aieixzvzx:f}}",
+		["he"] = "h{{aieixzvzx:e}}",
+		["she"] = "sh{{aieixzvzx:e}}",
+		["they"] = "th{{aieixzvzx:ey}}",
+		["them"] = "th{{aieixzvzx:em}}",
+		["had"] = "h{{aieixzvzx:add}}",
+		["for"] = "fo{{aieixzvzx:r}}",
+		["on"] = "o{{aieixzvzx:n}}",
+		["as"] = "a{{aieixzvzx:s}}",
+		["you"] = "yo{{aieixzvzx:u}}",
+		["my"] = "m{{aieixzvzx:y}}",
+		["yours"] = "you{{aieixzvzx:rs}}",
+		["not"] = "no{{aieixzvzx:t}}",
+		["with"] = "wi{{aieixzvzx:th}}",
+		["number"] = "numb{{aieixzvzx:er}}",
+		["numbers"] = "numb{{aieixzvzx:ers}}",
+		["day"] = "da{{aieixzvzx:y}}",
+		["night"] = "ni{{aieixzvzx:ght}}",
+		["get"] = "ge{{aieixzvzx:t}}",
+		["come"] = "co{{aieixzvzx:me}}",
+		["it"] = "i{{aieixzvzx:t}}",
+		["some"] = "so{{aieixzvzx:me}}",
+		["there"] = "the{{aieixzvzx:re}}",
+		["but"] = "bu{{aieixzvzx:t}}",
+		["more"] = "mo{{aieixzvzx:re}}",
+		["all"] = "a{{aieixzvzx:ll}}",
+		["get"] = "ge{{aieixzvzx:t}}",
+		["its"] = "i{{aieixzvzx:ts}}",
+		["yes"] = "ye{{aieixzvzx:s}}",
+		["no"] = "n{{aieixzvzx:o}}",
+		["so"] = "s{{aieixzvzx:o}}",
+		["said"] = "sa{{aieixzvzx:id}}",
+		["can"] = "ca{{aieixzvzx:n}}"
+
+		
 	}
 
 
@@ -281,7 +353,7 @@ queueonteleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/dadd
 	if not LOADED then
 		NotificationHolder:message {
 			Title = "<font color='rgb(130, 220, 120)'>Credits</font>",
-			Description = "FIRSTLY DISCOVERED WAS BY tav#8870. Bypasser was done by Decayed#5038 and AnthonyIsHere on V3rm. Modified by daddysyn and Big Black Monkey Boy#8453",
+			Description = "FIRSTLY DISCOVERED WAS BY tav#8870. Bypasser was done by Decayed#5038 and AnthonyIsHere on V3rm. Modified by daddysyn and someone",
 			Icon = 6023426926
 		}
 
@@ -328,7 +400,7 @@ queueonteleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/dadd
 			end
 		},
 		Dismiss = {Text = "No", Callback = function()
-			NotificationHolder:message {Title = "<font color='rgb(240,248,255)'>Warning</font>", Description = "fuck you then im gonna invite you anyway bitch(fuck you syn for adding this shit", Icon = 10952973359}
+			NotificationHolder:message {Title = "<font color='rgb(240,248,255)'>Warning</font>", Description = "fuck you then im gonna invite you anyway bitch", Icon = 10952973359}
 
 				wait(0.5)
 				requestt(
@@ -361,18 +433,6 @@ queueonteleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/dadd
 			getgenv().LOADED = true
 		end
 	)
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-scip/Bypass.lua at main · bigblackmonkeyboi/scip
+
+
+
